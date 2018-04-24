@@ -1,0 +1,37 @@
+
+img {
+  vertical-align: middle;
+}
+
+
+a {
+  color: #622cae;
+}
+
+  a:hover,
+  a:focus {
+    color: #fff;
+  }
+
+  nav{
+    font-family:PraterSerifPro,sans-serif;
+  }
+
+p {
+  color: #9fc3f8;
+  font-family:PraterSerifPro, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  font-family:PraterSerifPro, sans-serif;
+  }
+
+.background {
+  background-color: #3c59a2;
+}
+
+.nav-item {
+  padding: 2.5em 1em;
+  background: url("../img/popcorn.png") center center no-repeat;
+}
